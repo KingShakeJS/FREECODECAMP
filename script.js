@@ -53,5 +53,8 @@ button1.onclick = goStore;
 button2.onclick = goCave;
 button3.onclick = fightDragon;
 
-const locations =[{ name: "town square"}];
+const locations =[{
+    name: "town square",
+    "button text": []
+}];
 function update (location) {}
