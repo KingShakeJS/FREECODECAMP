@@ -55,6 +55,6 @@ button3.onclick = fightDragon;
 
 const locations =[{
     name: "town square",
-    "button text": []
+    "button text": ["Go to store", "Go to cave", "Fight dragon"]
 }];
 function update (location) {}
